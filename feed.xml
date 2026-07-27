@@ -2,28 +2,71 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - Mundo</title>
 <atom:link href="https://evwbr.github.io/mundo/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/mundo/</link>
 <description>Notícias internacionais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 26 Jul 2026 19:41:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 18:28:54 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Brasil convoca embaixador após ofensas de Milei a Lula]]></title>
-<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-ofensas-de-milei-lula-itamaraty-chama-embaixador-para-consulta</link>
+<title><![CDATA[Brasil repudia fala do presidente argentino em São Paulo]]></title>
+<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Jul 2026 18:11:00 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 15:23:00 GMT</pubDate>
 <category><![CDATA[Mundo]]></category>
-<guid isPermaLink="false"><![CDATA[1697592 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Ministério das Relações Exteriores convocou o embaixador brasileiro em Buenos Aires para consultas após o presidente argentino, Javier Milei, proferir ofensas contra o presidente Luiz Inácio Lula da Silva. As declarações ocorreram durante evento político em São Paulo, gerando tensão diplomática entre os dois países.]]></description>
+<guid isPermaLink="false"><![CDATA[1697688 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O ministro das Relações Exteriores, Mauro Vieira, convocou o embaixador da Argentina no Brasil, Daniel Raimondi, para expressar a repulsa do governo brasileiro às declarações do presidente argentino Javier Milei em São Paulo. O Itamaraty classificou as falas como agressões sem precedentes contra o chefe de Estado e instituições brasileiras.]]></description>
+<enclosure url="https://imagens.ebc.com.br/CrchTMwlbXKn0r-TUQCR7Etvit8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/54139237252_171c64b206_o-architectural-scale-4_00x.jpg?itok=HYu0ypBu" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/CrchTMwlbXKn0r-TUQCR7Etvit8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/54139237252_171c64b206_o-architectural-scale-4_00x.jpg?itok=HYu0ypBu" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/CrchTMwlbXKn0r-TUQCR7Etvit8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/54139237252_171c64b206_o-architectural-scale-4_00x.jpg?itok=HYu0ypBu"/>
 <content:encoded><![CDATA[
-<p>O Ministério das Relações Exteriores convocou o embaixador brasileiro em Buenos Aires para consultas após o presidente argentino, Javier Milei, proferir ofensas contra o presidente Luiz Inácio Lula da Silva. As declarações ocorreram durante evento político em São Paulo, gerando tensão diplomática entre os dois países.</p>
-<p>Javier Milei participou no sábado da convenção do Partido Liberal em São Paulo, onde oficializou a candidatura de Flávio Bolsonaro à Presidência da República. No discurso, Milei insultou diretamente o presidente Lula, chamando-o de &quot;presidiário&quot; em mais de uma ocasião. Além disso, ofendeu o ministro do Supremo Tribunal Federal, Alexandre de Moraes, ao se referir a ele como &quot;lixo careca&quot; por não autorizar visita a Jair Bolsonaro.</p>
-<p>O Ministério das Relações Exteriores considerou as declarações graves e convocou o embaixador Julio Bitelli para consultas, gesto que indica descontentamento e tensão entre Brasil e Argentina. Bitelli deve retornar a Brasília entre a noite de domingo e a madrugada de segunda-feira para tratar do assunto. A convocação reforça a importância da civilidade nas relações diplomáticas entre os países.</p>
-<p>O presidente do Supremo Tribunal Federal, Edson Fachin, divulgou nota oficial classificando como &quot;referência desrespeitosa&quot; a fala de Milei contra Alexandre de Moraes. Fachin reafirmou a autonomia do Judiciário brasileiro e deplorou manifestações que ferem a civilidade nas relações entre os Estados, ressaltando o compromisso com o respeito institucional e diplomático.</p>
-<p>A situação segue acompanhada pelas autoridades brasileiras enquanto o embaixador retorna para tratar das ofensas feitas pelo presidente argentino.</p>
+<p><img src="https://imagens.ebc.com.br/CrchTMwlbXKn0r-TUQCR7Etvit8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/54139237252_171c64b206_o-architectural-scale-4_00x.jpg?itok=HYu0ypBu" alt="Brasil repudia fala do presidente argentino em São Paulo" /></p>
+<p>O ministro das Relações Exteriores, Mauro Vieira, convocou o embaixador da Argentina no Brasil, Daniel Raimondi, para expressar a repulsa do governo brasileiro às declarações do presidente argentino Javier Milei em São Paulo. O Itamaraty classificou as falas como agressões sem precedentes contra o chefe de Estado e instituições brasileiras.</p>
+<p>Durante a visita do presidente argentino Javier Milei a São Paulo, foram feitas declarações que o governo brasileiro considera ofensivas. O Itamaraty destacou que não há precedentes de um presidente estrangeiro que, em território nacional, faça agressões ao chefe de Estado brasileiro, às instituições democráticas, ao Poder Judiciário e ao povo do país.</p>
+<p>A convocação do embaixador Daniel Raimondi teve como objetivo transmitir formalmente a posição do Brasil sobre o ocorrido. O governo brasileiro reafirmou o compromisso com o respeito às instituições e à soberania nacional diante das declarações feitas por Javier Milei.</p>
+<p>O governo brasileiro mantém diálogo diplomático para preservar a relação entre os países após o episódio em São Paulo.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Lula e Xi Jinping discutem zona livre de comércio entre Brasil e China]]></title>
+<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 27 Jul 2026 13:16:00 GMT</pubDate>
+<category><![CDATA[Mundo]]></category>
+<guid isPermaLink="false"><![CDATA[1697677 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Os presidentes do Brasil e da China conversaram por mais de uma hora em ligação telefônica na noite de domingo. Eles abordaram a integração dos projetos nacionais de desenvolvimento e a formalização de uma zona livre de comércio entre os dois países.]]></description>
+<enclosure url="https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3"/>
+<content:encoded><![CDATA[
+<p><img src="https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3" alt="Lula e Xi Jinping discutem zona livre de comércio entre Brasil e China" /></p>
+<p>Os presidentes do Brasil e da China conversaram por mais de uma hora em ligação telefônica na noite de domingo. Eles abordaram a integração dos projetos nacionais de desenvolvimento e a formalização de uma zona livre de comércio entre os dois países.</p>
+<p>Durante a conversa, Luiz Inácio Lula da Silva e Xi Jinping destacaram a importância de acelerar as negociações para um acordo comercial entre o Mercosul e a China. O objetivo é incluir as flexibilidades necessárias para que o acordo seja efetivo e benéfico para ambas as partes.</p>
+<p>Os líderes enfatizaram o compromisso em fortalecer a cooperação econômica e ampliar as relações comerciais bilaterais. A formalização da zona livre de comércio visa promover o desenvolvimento e a integração econômica entre Brasil e China.</p>
+<p>As tratativas para o acordo Mercosul-China seguem em andamento com foco na ampliação do comércio e desenvolvimento conjunto.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Incêndios avançam perto de Bordeaux e afetam milhares na França e Espanha]]></title>
+<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/incendios-florestais-ameacam-cidade-historica-francesa-de-bordeaux</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 27 Jul 2026 11:49:00 GMT</pubDate>
+<category><![CDATA[Mundo]]></category>
+<guid isPermaLink="false"><![CDATA[1697671 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Incêndios florestais se aproximam dos arredores da histórica Bordeaux, no centro da região vinícola francesa, enquanto França e Espanha enfrentam graves queimadas. Centenas de milhares de pessoas foram obrigadas a deixar suas casas devido ao avanço das chamas.]]></description>
+<enclosure url="https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po" type="image/jpeg"/>
+<media:content url="https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po"/>
+<content:encoded><![CDATA[
+<p><img src="https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po" alt="Incêndios avançam perto de Bordeaux e afetam milhares na França e Espanha" /></p>
+<p>Incêndios florestais se aproximam dos arredores da histórica Bordeaux, no centro da região vinícola francesa, enquanto França e Espanha enfrentam graves queimadas. Centenas de milhares de pessoas foram obrigadas a deixar suas casas devido ao avanço das chamas.</p>
+<p>Na França, cerca de 220 mil pessoas foram evacuadas para evitar os riscos causados pelos incêndios que avançam rapidamente. A região vinícola enfrenta um desafio ambiental significativo, com as chamas ameaçando áreas próximas a Bordeaux, cidade conhecida por sua importância histórica e cultural.</p>
+<p>Na Espanha, mais de 75 mil pessoas também foram retiradas de suas residências devido aos incêndios florestais. Além disso, outras 30 mil receberam ordens para permanecer em abrigos, enquanto as autoridades trabalham para conter o fogo e proteger a população afetada.</p>
+<p>As equipes de emergência na França e na Espanha continuam os esforços para controlar os incêndios, que têm causado danos extensos e exigido ações rápidas para garantir a segurança dos moradores. O impacto ambiental e social dessas queimadas é motivo de preocupação para as autoridades locais.</p>
+<p>As operações de combate aos incêndios seguem em andamento, com foco na proteção das áreas residenciais e na contenção das chamas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
